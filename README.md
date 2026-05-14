@@ -7,8 +7,8 @@ For our project, we're developing an RC car to be controlled using a smartphone 
 
 ![IMG_0376](https://github.com/user-attachments/assets/13169ceb-5cd9-45f6-a78d-f0438e302c84)
 
-PARTS
-[2nd Preliminary.pdf](https://github.com/user-attachments/files/27765519/2nd.Preliminary.pdf)
+Specs
+[Car Specs.pdf](https://github.com/user-attachments/files/27769378/Car.Specs.pdf)
 
 AGILE PLANNING
 [RC Car Agile Planning.pdf](https://github.com/user-attachments/files/27768119/RC.Car.Agile.Planning.pdf)
