@@ -9,3 +9,6 @@ For our project, we're developing an RC car to be controlled using a smartphone 
 
 PARTS
 [2nd Preliminary.pdf](https://github.com/user-attachments/files/27765519/2nd.Preliminary.pdf)
+
+AGILE PLANNING
+[RC Car Agile Planning.pdf](https://github.com/user-attachments/files/27768119/RC.Car.Agile.Planning.pdf)
